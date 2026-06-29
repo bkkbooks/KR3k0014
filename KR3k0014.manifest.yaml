@@ -1,0 +1,161 @@
+canonical_identifier: bkk:krp/KR3k0014/v1
+canonical_location: https://kanripo.org/bkk/KR3k0014/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 事物紀原
+  identifiers:
+    krp: KR3k0014
+  tags:
+    kr-categories: KR3k
+    tls-internal: swl
+  source:
+    repository: tls-texts
+    path: data/tls/KR3k0014.xml
+  edition:
+    short: bkk
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+- short: krp
+assets:
+  parts:
+  - {seq: 1, filename: KR3k0014_001.yaml, hash: 'sha256:bbc40aec6d84c5bb5024aec1b7c15c13e8423aa3b8b38c1943c9060d2aeac2c0'}
+  - {seq: 2, filename: KR3k0014_002.yaml, hash: 'sha256:59f1f58eb3fec98991b62414f837632c1dbfb2e4517090418a0857a58875fb2f'}
+  - {seq: 3, filename: KR3k0014_003.yaml, hash: 'sha256:7a092471aaf56dfd0b650a688f7c373cad83f1c2a7e430217ff25a75eb6ffc9c'}
+  - {seq: 4, filename: KR3k0014_004.yaml, hash: 'sha256:57173406f8fe82f598aa80d95b6f32654040c33c5babcbc1b23695216b67b0b2'}
+  - {seq: 5, filename: KR3k0014_005.yaml, hash: 'sha256:03f193b94084dfad5a5c36e4c39fb4bbde0b38cef82262fdc72d91ce66b73b3f'}
+  - {seq: 6, filename: KR3k0014_006.yaml, hash: 'sha256:a876d3968037864f5f4cb5e6640afe954c0061673fe069d48491e00aca2acbc1'}
+  - {seq: 7, filename: KR3k0014_007.yaml, hash: 'sha256:deff94f45b10125f9ee6b0261821fb491a48d88cc33add223e4830d0f437ab68'}
+  - {seq: 8, filename: KR3k0014_008.yaml, hash: 'sha256:a9dbe1bd2818dec50ab67683531e8be1de96580856abd91841a74c6625670571'}
+  - {seq: 9, filename: KR3k0014_009.yaml, hash: 'sha256:7a1b29c87ce30ff01efa94d047c133949719bb9c9b73ce4f31f1b8b3fa602691'}
+  - {seq: 10, filename: KR3k0014_010.yaml, hash: 'sha256:53a6b110a1ca084e9597f123abcf3cb97cd31e6389672810e12f4cb7fbecda77'}
+  - {seq: 11, filename: KR3k0014_011.yaml, hash: 'sha256:56e74f186979a232c13d3abafd6ce7e19eb5e4760de9ebd09bbd5f8f2820a8f6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3k0014_001.markers.yaml, hash: 'sha256:e1c156527e7e6cb6c61aa57fecebab3009d89a5927a6ce91fadb676c81438d55'}
+  - {seq: 2, role: markers, filename: assets/KR3k0014_002.markers.yaml, hash: 'sha256:77d9c1f7c9a2053467c95772c4f2e89e0f52b833dfef69f43c7c35620b0c97c7'}
+  - {seq: 3, role: markers, filename: assets/KR3k0014_003.markers.yaml, hash: 'sha256:a8f296a39ec47746eb5e890dcc9fe5c532fcc880aeb0724a8575ce81246fed2b'}
+  - {seq: 4, role: markers, filename: assets/KR3k0014_004.markers.yaml, hash: 'sha256:547a7d697c6f1bf1c497acee7b9b77ff2af31adca88090311b48db403cf3a7f9'}
+  - {seq: 5, role: markers, filename: assets/KR3k0014_005.markers.yaml, hash: 'sha256:c4607284f822a7df8a2b3fc6a9c94cbc9aa2cf6a6c010dfc3ca477c3c70191f2'}
+  - {seq: 6, role: markers, filename: assets/KR3k0014_006.markers.yaml, hash: 'sha256:27483c84d41ba7f80a4d9635a1fdef2006b5ddf47712a6743595b11636d81bd2'}
+  - {seq: 7, role: markers, filename: assets/KR3k0014_007.markers.yaml, hash: 'sha256:2120ac3b1408f86e2015f36b7fab632bd84e6bd9e743db615cecc1b2d8fd690e'}
+  - {seq: 8, role: markers, filename: assets/KR3k0014_008.markers.yaml, hash: 'sha256:80c2e0f211de444c781e5616b4bb9dbb695351fbcc7781b6de819ed3b1b0c288'}
+  - {seq: 9, role: markers, filename: assets/KR3k0014_009.markers.yaml, hash: 'sha256:3063b16a14e7d0d1f845c2015a58e8874fc7da11ef256658863915058177d43f'}
+  - {seq: 10, role: markers, filename: assets/KR3k0014_010.markers.yaml, hash: 'sha256:0ec257f7ba8254182c34cfa8e7ea44b689fb01af90a93a6121b1d6d146846276'}
+  - {seq: 11, role: markers, filename: assets/KR3k0014_011.markers.yaml, hash: 'sha256:5dd6862f37cc603efeb0feea6b4768c9c87e40d252655c7ba05c153f5428a64b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3k0014_CHANT_001-1a.1-h
+    span:
+    - front
+    - 0
+    - 1310
+  label: 事物紀原序
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3k0014_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 12520
+  label: 天地生植部第一
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3k0014_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 16249
+  label: 公式姓諱部第八
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3k0014_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 12837
+  label: 旗旐采章部第十三
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3k0014_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 12895
+  label: 經籍藝文部第十七
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3k0014_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 10147
+  label: 三省綱轄部第二十二
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3k0014_CHANT_007-1a.1-h
+    span:
+    - body
+    - 0
+    - 13387
+  label: 橫行武列部第二十八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3k0014_CHANT_008-1a.1-h
+    span:
+    - body
+    - 0
+    - 11661
+  label: 庫務職局部第三十四
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3k0014_CHANT_009-1a.1-h
+    span:
+    - body
+    - 0
+    - 12560
+  label: 舟車帷幄部第四十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3k0014_CHANT_010-1a.1-h
+    span:
+    - body
+    - 0
+    - 14588
+  label: 農業陶漁部第四十五
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3k0014_CHANT_011-1a.1-h
+    span:
+    - body
+    - 0
+    - 11580
+  label: 軍伍名額部第五十一
+  type: section
+  level: 1
+hash: sha256:f5b2500fe4d1a100c02f48c8daa17c9c9c6d0c09758b792ff298a009a51f7801
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
