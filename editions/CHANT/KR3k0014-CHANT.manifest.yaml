@@ -17,7 +17,7 @@ metadata:
     short: CHANT
 assets:
   parts:
-  - {seq: 1, filename: KR3k0014_001-CHANT.yaml, hash: 'sha256:f862beee89b0e8c0dc844cca366c29d73c17bf8b5b6e0e261820941db97a0203'}
+  - {seq: 1, filename: KR3k0014_001-CHANT.yaml, hash: 'sha256:df7df00bf21a7ef4784f12a9392ffed81e742e17f444c3229e1dce4786880865'}
   - {seq: 2, filename: KR3k0014_002-CHANT.yaml, hash: 'sha256:dc0ede1f338e00a8620b2d6f847a15ee16a47959c7bf617cd0a8908d670b92ce'}
   - {seq: 3, filename: KR3k0014_003-CHANT.yaml, hash: 'sha256:df901b851455f4d972479d47470eb2345e62e46db6b7488bdfe5fa756aff5936'}
   - {seq: 4, filename: KR3k0014_004-CHANT.yaml, hash: 'sha256:8ab2ae8aa113471d6274fe19b4f792cdbcdae53ba6705b59bb89eddcb1fd83c7'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 10, filename: KR3k0014_010-CHANT.yaml, hash: 'sha256:9e78866b1bef41f9a816858d7ac122118f777f991ab7c7d0665bc5173595069e'}
   - {seq: 11, filename: KR3k0014_011-CHANT.yaml, hash: 'sha256:da78cfdd22eb7b86c827fa2a3758d397343c5085fe1420e4b42771d8057c85bc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3k0014_001-CHANT.markers.yaml, hash: 'sha256:e15d098c149fa746e7fa31b30b675975203972470e9a41d3f6e85374dc7c9406'}
+  - {seq: 1, role: markers, filename: assets/KR3k0014_001-CHANT.markers.yaml, hash: 'sha256:e368669930b5f5760c2bda6903d9e62cc1623bdbfe22c525c7d64cd54a6ec56d'}
   - {seq: 2, role: markers, filename: assets/KR3k0014_002-CHANT.markers.yaml, hash: 'sha256:e1879e43abdf5a392ccc485e7fbf4daca92415f1c782f20b3a5acce28c31141e'}
   - {seq: 3, role: markers, filename: assets/KR3k0014_003-CHANT.markers.yaml, hash: 'sha256:b5239e3482f0c8e3b389c366305c9a1ae42b14d314046268e149d13327e4394b'}
   - {seq: 4, role: markers, filename: assets/KR3k0014_004-CHANT.markers.yaml, hash: 'sha256:2fff6ef038d90cf83385a1347c3db59f337a77b49b6440a9212c55c5f89a2025'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3k0014_CHANT_001-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 1310
   label: 事物紀原序
@@ -151,4 +151,4 @@ table_of_contents:
   label: 軍伍名額部第五十一
   type: section
   level: 1
-hash: sha256:77b60adb1c88e56beef932d54f92ffb5c92ec36a0af7cc43527f6dcd4c2a3525
+hash: sha256:0c85bf2a54951e462400d99144c63970ef1951784a8717f020dac0874d9aa694
